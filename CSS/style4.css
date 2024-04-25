@@ -1,0 +1,27 @@
+.one {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	z-index: 3;
+}
+.two {
+	position: absolute;
+	top: 70px;
+	left: 70px;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	z-index: 2;
+}
+.thr {
+	position: absolute;
+	top: 120px;
+	left: 120px;
+	width: 100px;
+	height: 100px;
+	background-color: royalblue;
+	z-index: 1;
+}
